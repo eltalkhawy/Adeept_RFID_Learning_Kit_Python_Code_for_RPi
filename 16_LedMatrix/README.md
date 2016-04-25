@@ -1,4 +1,4 @@
-testing 8*8 led dot matrix
+#Driving Dot-Matrix by 74HC595 and Raspberry Pi
 
 
-[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/nxaWnpA4zeA/0.jpg)](https://www.youtube.com/watch?v=nxaWnpA4zeA)
+[![Youtube video for Driving Dot-Matrix by 74HC595](https://img.youtube.com/vi/BWnAN15kpjw/0.jpg)](https://www.youtube.com/watch?v=BWnAN15kpjw)
