@@ -1,4 +1,5 @@
 #!/usr/bin/env python
+# Displaying character A on the dotmatrix
 import RPi.GPIO as GPIO
 import time
 
