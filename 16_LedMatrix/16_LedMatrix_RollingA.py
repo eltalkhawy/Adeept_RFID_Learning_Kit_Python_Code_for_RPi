@@ -1,4 +1,6 @@
 #!/usr/bin/env python
+#Rolling character A across the dot matrix
+
 import RPi.GPIO as GPIO
 import time
 
