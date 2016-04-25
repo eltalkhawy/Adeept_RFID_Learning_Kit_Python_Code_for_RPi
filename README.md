@@ -1,4 +1,4 @@
-##About this repository
+#About this repository
 The original code was taken from "https://github.com/adeept/Adeept_RFID_Learning_Kit_Python_Code_for_RPi", it is written in Python and intended to be run on Raspberry Pi
 
 As I have bought the kit, and came accross the codes I found some mistakes and incomplete codes and description, so I have made additions and modifications to some files, plus adding circuit wiring and desciption that was missing in the original copy
