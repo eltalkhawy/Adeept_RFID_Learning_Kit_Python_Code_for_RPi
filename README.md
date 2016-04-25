@@ -6,7 +6,7 @@ As I have bought the kit, and came accross the codes I found some mistakes and i
 That's why I will keep their original README content here
 
 
-### Adeept Super Starter Kit Python Code for Raspberry Pi
+#### Adeept Super Starter Kit Python Code for Raspberry Pi
 -----------------------------------------------------------------------------
 
 #### About this kit:
